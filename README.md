@@ -1,7 +1,11 @@
 <div align="center" id="header">
     <h1>
         <a href="https://syntax.fo/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira Code&weight=900&size=32&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=am syntax;a full-stack/bot dev" alt="Typing SVG"/>
+            <img src="https://readme-typing-svg.demolab.com?font=Fira Code&weight=900&size=32&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=am syntax;a full-stack dev" alt="Typing SVG"/>
+        </a>
+        <br>
+        <a href="https://links.syntax.fo/discord">
+            <img src="https://api.syntax.fo/status" alt="Discord Status"/>
         </a>
     </h1>
 </div>
